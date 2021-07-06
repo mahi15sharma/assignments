@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.p1{
+    
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+.c1{
+    height: 300px;
+    width: 20%;
+    background-color: red;
+}
+.p2{
+    height: 500px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+.c2{
+    height: 300px;
+    width: 20%;
+    background-color: red;
+    display: inline-flex;
+    margin-left: 4%;
+}
